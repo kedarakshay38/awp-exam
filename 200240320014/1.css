@@ -1,0 +1,7 @@
+#rowid1 {
+    background-image: url("dn.jpg");
+    border-image-repeat: norepeat;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
